@@ -6,3 +6,5 @@
   Flex box was highly used to justify and align content in the body section.
 ## JavaScript
   the ```Date()``` function was used to get the exact date and time of the user
+
+Use https://hezekiah-elisha.github.io/Time-is-up/ to access this page
