@@ -1,4 +1,4 @@
-# a countdown timer project
+# A countdown timer project
   In this project I used an external javascript file(time.js) and an external css file(styles.css).
 ## HTML
   I used html 5 elements such as ```<main></main>```
